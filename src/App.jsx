@@ -60,15 +60,15 @@ export default function App() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://images5.alphacoders.com/644/644141.jpg"
+                src="https://xboxpower-wp.s3.amazonaws.com/wp-content/uploads/2021/12/analise-halo-infinite-featured.jpg"
                 alt=""
               />
 
               <div className="overlay">
-                <h2>Red Dead Redemption 2</h2>
+                <h2>Halo Infinite </h2>
 
                 <p>
-                  Uma das maiores obras da história dos videogames.
+                  Halo Infinite anuncia modo battle royale para todos as plataformas.
                 </p>
               </div>
             </div>
@@ -77,15 +77,15 @@ export default function App() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://wallpapercave.com/wp/wp11351427.jpg"
+                src="https://s2-techtudo.glbimg.com/YIvNCsjdqZWRHBwvED6ZODRgqJ4=/0x0:1600x1000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/H/Y/X3cA59Rim8LQ8Hp201zQ/001.jpg"
                 alt=""
               />
 
               <div className="overlay">
-                <h2>Marvel's Spider-Man 2</h2>
+                <h2>Left 4 dead</h2>
 
                 <p>
-                  O ápice cinematográfico dos jogos de herói.
+                  Os desenvolvedores de left 4 dead anunciam o jogo novo
                 </p>
               </div>
             </div>
@@ -94,7 +94,7 @@ export default function App() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://wallpapercave.com/wp/wp12815717.jpg"
+                src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736"
                 alt=""
               />
 
@@ -102,7 +102,7 @@ export default function App() {
                 <h2>Hollow Knight: Silksong</h2>
 
                 <p>
-                  O indie mais aguardado da geração.
+                  O indie mais aguardado da geração aquece os corações.
                 </p>
               </div>
             </div>
